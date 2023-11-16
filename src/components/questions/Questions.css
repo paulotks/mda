@@ -1,0 +1,15 @@
+
+#Questions iframe {
+  margin-top: 50px;
+  min-height: 95vh;
+  max-height: 100vh;
+}
+
+.Questions-background-wrapper {
+  display:inline-block;
+  position:relative;
+}
+
+.Questions-spinner {
+  margin-top: 100%;
+}
